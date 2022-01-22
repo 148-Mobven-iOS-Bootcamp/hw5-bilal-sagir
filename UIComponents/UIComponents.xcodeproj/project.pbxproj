@@ -32,6 +32,7 @@
 		2391F724277732FC00269D7F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2391F723277732FC00269D7F /* SecondViewController.swift */; };
 		2391F74C27788A4500269D7F /* DynamicTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2391F74B27788A4400269D7F /* DynamicTableViewController.swift */; };
 		2391F75127788C8300269D7F /* UIColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2391F75027788C8300269D7F /* UIColorExtensions.swift */; };
+		9C60B405279B14F500BD2A17 /* BannerSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C60B404279B14F500BD2A17 /* BannerSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		2391F723277732FC00269D7F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2391F74B27788A4400269D7F /* DynamicTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicTableViewController.swift; sourceTree = "<group>"; };
 		2391F75027788C8300269D7F /* UIColorExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtensions.swift; sourceTree = "<group>"; };
+		9C60B404279B14F500BD2A17 /* BannerSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				238A332E278AE3100070B74E /* WebViewContainerViewController.swift */,
 				238A3330278AF6A80070B74E /* MapViewController.swift */,
 				238FE2602792BA08000D742C /* PageViewController.swift */,
+				9C60B404279B14F500BD2A17 /* BannerSlider.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				238A33272789AE2D0070B74E /* DynamicCollectionViewController.swift in Sources */,
 				238A331A278972640070B74E /* Person.swift in Sources */,
 				238A33292789AF900070B74E /* MyCustomCollectionViewCell.swift in Sources */,
+				9C60B405279B14F500BD2A17 /* BannerSlider.swift in Sources */,
 				231A9CE1279426E3004065DF /* KeychainManager.swift in Sources */,
 				23097EC9276F330D00AC8761 /* SceneDelegate.swift in Sources */,
 				238FE2612792BA09000D742C /* PageViewController.swift in Sources */,
