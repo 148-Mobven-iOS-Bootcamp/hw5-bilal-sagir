@@ -78,8 +78,7 @@ class MapViewController: UIViewController {
                 self.myRoutes.append(route.polyline)
             }
             
-            self.mapView.addOverlays(self.myRoutes, level: .aboveLabels)
-            //Odev 1 navigate buttonlari ile diger route'lar gosterilmelidir.
+            self.mapView.addOverlays(self.myRoutes, level: .aboveLabels) // adding all overlays at once
         }
     }
 
